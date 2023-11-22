@@ -2,5 +2,5 @@
 ### Integrantes :
 -Fernández Marquez
 -Alexander Bejarano
--Tiago Cuello
+-Tiago Cuello 19 años Buenos Aires
 -Paola Vera
