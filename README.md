@@ -1,6 +1,6 @@
 ## Título: Movies_Sala11
 ### Integrantes :
--Fernández Marquez
+-Fernando Márquez - 29 años - Cuidad: Cordoba 
 -Alexander Bejarano
 -Tiago Cuello
 -Paola Vera
