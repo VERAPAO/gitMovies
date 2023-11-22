@@ -3,4 +3,4 @@
 -Fernández Marquez
 -Alexander Bejarano
 -Tiago Cuello
--Paola Vera
+-Paola Vera - Edad: 30 y algo - Ciudad: Mar del Plata
